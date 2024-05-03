@@ -22,19 +22,19 @@ Girlfriend: Shiina Mashiro ❤️.
 ```
 
 ```zsh
-> mkdir weeb
+ mkdir weeb
 ```
 
 ```zsh
-> cd weeb
+ cd weeb
 ```
 
 ```zsh
-> repo init -u repo init -u https://github.com/WeebProjectXd/platform_manifest -b sushi
+ repo init -u https://github.com/WeebProjectXd/platform_manifest -b sushi
 
 ```
 ```zsh
-> repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
+ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 
 ```
 
