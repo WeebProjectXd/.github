@@ -30,7 +30,7 @@ Girlfriend: Shiina Mashiro ❤️.
 ```
 
 ```zsh
- repo init -u https://github.com/WeebProjectXd/platform_manifest -b sushi
+ repo init -u https://github.com/WeebProjectXd/platform_manifest -b sushi --depth=1
 
 ```
 ```zsh
