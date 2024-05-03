@@ -24,4 +24,8 @@ Girlfriend: Shiina Mashiro ❤️.
 > repo init -u repo init -u https://github.com/WeebProjectXd/platform_manifest -b sushi
 
 ```
+```zsh
+> repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
+
+```
 
