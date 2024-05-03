@@ -20,6 +20,15 @@ Hobbies: Novel, Book, Music, and Gaming.
 Girlfriend: Shiina Mashiro ❤️.
 
 ```
+
+```zsh
+> mkdir weeb
+```
+
+```zsh
+> cd weeb
+```
+
 ```zsh
 > repo init -u repo init -u https://github.com/WeebProjectXd/platform_manifest -b sushi
 
