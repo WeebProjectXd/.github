@@ -38,3 +38,14 @@ Girlfriend: Shiina Mashiro ❤️.
 
 ```
 
+```shell
+# Init
+. build/envsetup.sh
+
+# Lunch
+lunch weeb_[codename]-[build type]
+
+# Make a weeb project !
+make weeb-prod -j$
+```
+
